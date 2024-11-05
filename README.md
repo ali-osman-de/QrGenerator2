@@ -14,4 +14,5 @@ This project is a simple application that allows users to create a virtual card 
 - Firebase Authentication: For user login processes (optional).
 
 Live: https://qrandcirtualcardcreator.netlify.app/
-![Uploading VirtualCardCreator.png…]()
+
+<img width="1680" alt="VirtualCardCreator" src="https://github.com/user-attachments/assets/ca7cd664-c0ac-4bff-b8d6-018a723642be">
