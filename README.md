@@ -1,8 +1,15 @@
-# React + Vite
+# Virtual Card Application
+This project is a simple application that allows users to create a virtual card by filling out a form. User information is managed using Redux Toolkit and stored using Firebase Firestore.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+User Information Collection: Collects user information through a form.
+State Management: Data is temporarily stored using Redux Toolkit.
+Firebase Firestore Integration: Data is saved to Firestore.
+Virtual Card Display: Collected data is displayed as a virtual card.
+# Technologies Used
+React: For frontend development.
+Redux Toolkit: For state management.
+Firebase Firestore: For the database (Firestore section only).
+Firebase Authentication: For user login processes (optional).
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live: https://qrandcirtualcardcreator.netlify.app/
