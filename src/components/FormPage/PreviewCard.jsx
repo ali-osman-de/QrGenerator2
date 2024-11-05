@@ -162,7 +162,7 @@ const PreviewCard = ({ formSubmit, setFormSubmit }) => {
                             </Card>
                         </div>
                         <div className='d-flex justify-content-center'>
-                            <Button onClick={downloadCard} type="primary">
+                            <Button onClick={downloadCard}  type="primary">
                                 <IoIosCloudDownload size={14} /> Virtual Card
                             </Button>
                         </div>
